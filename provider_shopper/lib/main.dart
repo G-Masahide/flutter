@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
-        title: 'Provider Demo',
+        title: 'Provider Demo (mainの変更)',
         theme: appTheme,
         initialRoute: '/',
         routes: {
